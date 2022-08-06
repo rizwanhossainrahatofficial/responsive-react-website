@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "name": "Juditha",
+    "price": "100",
+    "description": "Frederich",
+    "img": "https://i.ibb.co/5FQsmzt/christian-buehner-Fd6osy-Vbt-G4-unsplash.jpg"
+  }, {
+    "id": 2,
+    "name": "Fleur",
+    "price": "150",
+    "description": "Krystyna",
+    "img": "https://ibb.co/MNm830q"
+  }, {
+    "id": 3,
+    "name": "Berkeley",
+    "price": "200",
+    "description": "Andriana",
+    "img": "https://ibb.co/dc4Y28j"
+  }, {
+    "id": 4,
+    "name": "Bernice",
+    "price": "250",
+    "description": "Kimberlee",
+    "img": "https://ibb.co/RTwVSsK"
+  }, {
+    "id": 5,
+    "name": "Elissa",
+    "price": "300",
+    "description": "Alfie",
+    "img": "https://ibb.co/yh05fmw"
+  }, {
+    "id": 6,
+    "name": "Edik",
+    "price": "400",
+    "description": "Noellyn",
+    "img": "https://ibb.co/KzzxQKY"
+  }]
